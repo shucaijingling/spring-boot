@@ -1,14 +1,14 @@
 person:
   family:
+    father,
+    mother
   hobby:
-    sing
-    jump
+    sing,
+    jump,
     rapper
   map:
     k1: v1
     k2: v2
-  id: shucai-spring-boot
-  pet:
-    type: type
-    name: name
-  name: xixihaha
+  id: 1
+  pet: { type: dog,name: wangcai }
+  name: kun
